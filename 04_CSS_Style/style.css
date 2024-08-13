@@ -1,0 +1,22 @@
+.main-div-wrapper {
+	background-color: #00f;
+	width: 50vw;
+	height: 50vh;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+#child-div-1 {
+	background-color: #0f0;
+	width: 100px;
+	height: 100px;
+}
+
+#child-div-2 {
+	background-color: #f00;
+	width: 100px;
+	height: 100px;
+}
